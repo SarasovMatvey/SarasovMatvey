@@ -44,18 +44,18 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="510"> ▒▒▒▓▓▒▓▒▒▒▓▓▒▒▒▒▓▓▓▓▓▓▒▓▓▓▒▒▒▒▓▓▓▓ </tspan>
 </text>
 <text x="390" y="270" fill="#24292f">
-<tspan x="390" y="270">Info</tspan> -——————————————————————————————————————————————————-—-
-<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Name</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">Matvey Sarasov</tspan>
-<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Age</tspan>:<tspan class="cc" id="age_data_dots"> ........................................... </tspan><tspan class="value" id="age_data">22 years</tspan>
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Experience</tspan>:<tspan class="cc" id="age_data_dots"> ..................................... </tspan><tspan class="value" id="age_data">4 years</tspan>
-<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">English, Russian</tspan>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">UTC</tspan>:<tspan class="cc"> ............................................. </tspan><tspan class="value">+06:00</tspan>
-<tspan x="390" y="390">Skills</tspan> -————————————————————————————————————————————————-—-
-<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Stack</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">PHP, Laravel, React, Golang</tspan>
-<tspan x="390" y="430" class="cc">. </tspan><tspan class="key">Databases</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">MySQL, MS SQL, MongoDB</tspan>
-<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Infrastructure</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Linux, Docker, Nginx, Powershell</tspan>
-<tspan x="390" y="470">Contacts</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">sarasovmatvej@gmail.com</tspan>
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Telegram</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">@midia_212</tspan>
+<tspan x="390" y="270">Info</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Name</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Matvey Sarasov</tspan>
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Age</tspan>:<tspan class="cc" id="age_data_dots"> ....................................... </tspan><tspan class="value" id="age_data">22 years</tspan>
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Experience</tspan>:<tspan class="cc" id="age_data_dots"> ................................. </tspan><tspan class="value" id="age_data">4 years</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">English, Russian</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">UTC</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">+06:00</tspan>
+<tspan x="390" y="390">Skills</tspan> -————————————————————————————————————————————-—-
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Stack</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">PHP, Laravel, React, Golang</tspan>
+<tspan x="390" y="430" class="cc">. </tspan><tspan class="key">Databases</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">MySQL, MS SQL, MongoDB</tspan>
+<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Infrastructure</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Linux, Docker, Nginx, Powershell</tspan>
+<tspan x="390" y="470">Contacts</tspan> -——————————————————————————————————————————-—-
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">sarasovmatvej@gmail.com</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Telegram</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">@midia_212</tspan>
 </text>
 </svg>
